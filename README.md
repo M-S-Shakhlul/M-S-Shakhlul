@@ -23,7 +23,7 @@
 
 ## 📄 Portfolio & Resume
 
-- 🌐 Portfolio Website: [Yousry Essam Portfolio](https://portfolio-yueq.vercel.app/)  
+- 🌐 Portfolio Website: [My Portfolio](https://portfolio-yueq.vercel.app/)  
 - 📋 Resume: [View My Resume](https://drive.google.com/file/d/1fxny-tRrkrGQELky4H9WSacBfut8GCKe/view?usp=drive_link)  
 
 ---
@@ -105,6 +105,9 @@
 - 🚧 Built 3+ real-world web projects  
 - 🧠 Backend APIs & responsive UIs  
 - 📦 Deployment & production setup  
+
+---
+
 
 ---
 
