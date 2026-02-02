@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Maria Samuel</h1>
+<h3 align="center">Junior Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;ITI+Open+Source+Graduate;Laravel+%7C+Node.js+%7C+Vue.js;Always+Learning+New+Technologies&center=true&width=600&height=45">
-</p>
-
-<p align="center">
-🚀 ITI Open Source Graduate • 💻 Full Stack Web Developer • 🌍 Egypt
+🚀 ITI Open Source Graduate • 💻 Full Stack Developer • 🌍 Egypt
 </p>
 
 ---
@@ -14,7 +11,7 @@
 
 - 🎓 Computer Science Graduate – Faculty of Computers & Information  
 - 🏫 ITI 9-Month Professional Training Program (Open Source Track)  
-- 💻 Junior Full Stack Web Developer  
+- 💻 Junior Full Stack Web Developer (Laravel • Node.js • Vue • Angular • React)  
 - 🔧 Strong experience in REST APIs & Web Applications  
 - 🤝 Freelance developer with real-world projects  
 - 🌱 Passionate about clean code & continuous learning  
@@ -24,22 +21,22 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,angular,react,next,bootstrap,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,angular,react,bootstrap,tailwind" />
 </p>
 
 ### ⚙️ Backend
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
 </p>
 
 ### 🗄 Databases & Tools
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman" />
 </p>
 
@@ -68,7 +65,8 @@
 
 ### 🔹 Job Board System
 - Laravel + Vue.js  
-- Jobs, users & applications management  
+- CRUD for jobs, users, applications  
+- Admin management & filtering  
 
 🔗 https://github.com/M-S-Shakhlul/vue-laravel-project  
 
@@ -92,6 +90,7 @@
 ## 🌐 Portfolio
 
 🔗 https://portfolio-yueq.vercel.app/
+
 
 ---
 
