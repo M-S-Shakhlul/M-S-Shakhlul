@@ -1,49 +1,54 @@
 <h1 align="center">Hi 👋, I'm Maria Samuel</h1>
-<h3 align="center">Junior Full Stack Open Source Developer</h3>
 
 <p align="center">
-🚀 ITI Open Source Graduate • 💻 Full Stack Developer • 🌍 Egypt
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;ITI+Open+Source+Graduate;Laravel+%7C+Node.js+%7C+Vue.js;Always+Learning+New+Technologies&center=true&width=600&height=45">
+</p>
+
+<p align="center">
+🚀 ITI Open Source Graduate • 💻 Full Stack Web Developer • 🌍 Egypt
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science graduate – Faculty of Computers & Information  
+- 🎓 Computer Science Graduate – Faculty of Computers & Information  
 - 🏫 ITI 9-Month Professional Training Program (Open Source Track)  
-- 💻 Junior Full Stack Developer (Laravel • Node.js • Vue • Angular • React)
-- 🔥 Passionate about clean code, scalable systems, and open source
-- 🤝 Freelance developer with real-world project experience
+- 💻 Junior Full Stack Web Developer  
+- 🔧 Strong experience in REST APIs & Web Applications  
+- 🤝 Freelance developer with real-world projects  
+- 🌱 Passionate about clean code & continuous learning  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- HTML5, CSS3, JavaScript  
-- Bootstrap, Tailwind CSS  
-- Vue.js, Angular, React, Next.js  
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
+</p>
 
-**Backend**
-- PHP, Laravel  
-- Node.js, Express.js  
-- Django  
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,angular,react,next,bootstrap,tailwind" />
+</p>
 
-**Databases**
-- MySQL, MongoDB  
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
+</p>
 
-**Tools**
-- Git & GitHub  
-- REST APIs  
-- JWT Authentication  
-- Cloudinary  
+### 🗄 Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 DevMatch – Full Stack Platform
-- Tech: Node.js, Express, React  
+- Node.js, Express, React  
 - REST API with 15+ endpoints  
 - JWT Authentication & role-based access  
 
@@ -55,7 +60,7 @@
 ### 🔹 Short Video Platform API (TikTok Clone)
 - Node.js, Express, MongoDB  
 - Cloudinary media upload  
-- Users, videos, interactions schemas  
+- Users, videos & interactions schemas  
 
 🔗 https://github.com/M-S-Shakhlul/TikTok  
 
@@ -63,8 +68,7 @@
 
 ### 🔹 Job Board System
 - Laravel + Vue.js  
-- CRUD for jobs, users, applications  
-- Admin management & filtering  
+- Jobs, users & applications management  
 
 🔗 https://github.com/M-S-Shakhlul/vue-laravel-project  
 
@@ -73,7 +77,7 @@
 ### 🔹 Skin Cancer Detection Mobile App
 - Flutter + Machine Learning  
 - Firebase backend  
-- 85%+ model accuracy  
+- 85%+ accuracy ML model  
 
 ---
 
@@ -82,6 +86,24 @@
 - 🚧 Built 3+ real-world web projects  
 - 🧠 Backend APIs & responsive UIs  
 - 📦 Deployment & production setup  
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://portfolio-yueq.vercel.app/
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-S-Shakhlul&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-S-Shakhlul&theme=tokyonight" />
+</p>
 
 ---
 
@@ -95,7 +117,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
 - 📧 Email: m.s.shakhlul@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/maria-samuel-shakhlul  
