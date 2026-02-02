@@ -95,18 +95,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-S-Shakhlul&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-S-Shakhlul&theme=tokyonight" />
-</p>
-
----
-
 ## 📜 Certifications
 
 - CCNA – Cisco  
